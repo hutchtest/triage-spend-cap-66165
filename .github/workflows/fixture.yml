@@ -1,0 +1,9 @@
+name: Spend-cap notification fixture
+on:
+  pull_request:
+jobs:
+  fixture-failure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Intentional failure for in-app notification testing
+        run: exit 1
