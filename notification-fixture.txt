@@ -1,0 +1,1 @@
+Second synthetic spend-cap inbox fixture for mono PR 66165.
