@@ -1,0 +1,1 @@
+This synthetic pull request verifies creator-only spend-cap notifications.
